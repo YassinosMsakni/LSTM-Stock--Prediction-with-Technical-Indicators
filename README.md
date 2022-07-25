@@ -1,1 +1,1 @@
-# LSTM-Stock--Prediction-with-Technical-Indicators
+# LSTM/GRU-Stock--Prediction-with-Technical-Indicators
